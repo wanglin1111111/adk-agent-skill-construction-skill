@@ -1,8 +1,8 @@
----
-name: adk-skill-building
+﻿---
+name: ADK智能体Skill构建技能包
 description: "基于谷歌ADK渐进式披露架构的AI Agent Skill构建技能包，涵盖架构设计、Skill构建、评估测试等八大核心技能"
 version: 1.0.0
-author: "AI Skill Extractor"
+author: wanglin1111111
 tags: ["ADK", "AI Agent", "Skill构建", "架构设计", "性能优化"]
 ---
 
