@@ -1,0 +1,16 @@
+{
+  "assetType": "skill",
+  "name": "adk-skill-building",
+  "displayName": "ADK智能体Skill构建技能包",
+  "semver": "1.0.0",
+  "description": "基于谷歌ADK渐进式披露架构的AI Agent Skill构建技能包，涵盖渐进式披露架构设计、内联Skill构建、文件型Skill构建、外部Skill导入、Skill工厂（元Skill）、Skill描述优化、Agent评估测试、过早优化规避等八大核心技能。最多可将基础上下文消耗降低90%。",
+  "author": "22812",
+  "tags": [
+    "ADK",
+    "AI-Agent",
+    "Skill-building",
+    "architecture",
+    "performance-optimization",
+    "Google"
+  ]
+}
